@@ -11,7 +11,7 @@ Breast cancer is the most prevalent form of cancer, with 7.8 million women survi
 
 The [dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29) is from UCI ML Repository. Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image. 
 
-## Project 3: Sign Language Detection 
+## [Project 3: Sign Language Detection](https://github.com/clairevania/Data-Science-Projects/tree/main/Sign%20Language%20MNIST) 
 The National Institute on Deafness and other Communications Disorders (NIDCD) indicates that the 200-year-old American Sign Language is a complete, complex language (of which letter gestures are only part) and is the primary language for many deaf North Americans. One could implement computer vision in an inexpensive board computer like Raspberry Pi with OpenCV, and some Text-to-Speech to enabling improved and automated translation applications.
 
 The American Sign Language letter database of hand gestures represent a multi-class problem with 24 classes of letters (excluding J and Z which require motion). The [dataset](https://www.kaggle.com/datasets/datamunge/sign-language-mnist) format is patterned to match closely with the classic MNIST.
