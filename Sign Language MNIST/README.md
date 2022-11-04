@@ -7,3 +7,15 @@ The dataset format is patterned to match closely with the classic MNIST. Each tr
 <img src="./readme.img/amer_sign2.png" width=500/>
 
 ## Results 
+<img src="./readme.img/B.jpg" width=400/>       <img src="./readme.img/C.jpg" width=400/>
+<img src="./readme.img/D.jpg" width=400/>       <img src="./readme.img/F.jpg" width=400/>
+<img src="./readme.img/G.jpg" width=400/>       <img src="./readme.img/H.jpg" width=400/>
+<img src="./readme.img/L.jpg" width=400/>       <img src="./readme.img/O.jpg" width=400/>
+<img src="./readme.img/Q.jpg" width=400/>       <img src="./readme.img/T.jpg" width=400/>
+<img src="./readme.img/U.jpg" width=400/>       <img src="./readme.img/V.jpg" width=400/>
+<img src="./readme.img/W.jpg" width=400/>       <img src="./readme.img/X.jpg" width=400/>
+<img src="./readme.img/Y.jpg" width=400/>       
+
+
+
+
